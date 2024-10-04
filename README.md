@@ -1,2 +1,2 @@
-# PantherNL1
+# $Panther_B$
 1
